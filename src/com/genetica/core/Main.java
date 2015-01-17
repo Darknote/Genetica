@@ -1,6 +1,7 @@
 package com.genetica.core;
 
-public class Main {
+public class Main 
+{
 	
 	public void run()
 	{
